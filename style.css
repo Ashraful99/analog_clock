@@ -8,12 +8,14 @@
     margin-top: 100px;
     width: 400px;
     height: 400px;
-    background-color: #F9F7C6;
+    background-color: #fff;
     border-radius: 50%;
-    border: 12px solid #D55F3B;
+    border: 12px solid #000;
     position: relative;
 }
-
+body{
+    background-color: #C8ADC8;
+}
 .clock .number {
     --rotation: 0;
     position: absolute;
@@ -109,30 +111,3 @@
     height: 35%;
     background-color: black;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
